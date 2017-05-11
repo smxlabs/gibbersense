@@ -2,24 +2,16 @@
 
 Found a Gibberish string or file in the wild and dont know what is it? Throw it to GibberSense, it might try to make some sense out of it. 
 
-
 Being an extensible framework, we are adding more to the capabilities of GibberSense.
 
 
 Extract Sense out of Gibberish stuff
 
-#LAMMA   (BETA)
-
-
-###Vulnerability Assessment Framework for all the Crypto Implimentations.
-
 
 (An Open Source Initiative by - SECURITY MONX )
 
 
-
-
-Gibber Sense Documentation  (beta)
+Gibber Sense Documentation
 
         File Name   :   README
 
@@ -49,11 +41,7 @@ Table Of Contents   :
 
 A. Licenses Information
 
-    LAMMA Framework (beta) and its documents are covered with NO Licenses.
-    You are free to use it in any way you want. No conditions what so ever.
-
-    For details about the project visit our website
-        "http://www.securitymonx.com/Project-LAMMA"
+        The Unlicense  (http://unlicense.org/)    
 
 
 
@@ -95,14 +83,14 @@ D. Using Gibber Sense :
 
 $ python gibbersense.py 
 
-   .d8888b.    d8b   888        888                                 .d8888b.                                              
-  d88P  Y88b   Y8P   888        888                                d88P  Y88b                                             
-  888    888         888        888                                Y88b.                                                  
-  888          888   88888b.    88888b.     .d88b.    888d888      "Y888b.      .d88b.    88888b.    .d8888b     .d88b.  
-  888  88888   888   888 "88b   888 "88b   d8P  Y8b   888P"           "Y88b.   d8P  Y8b   888 "88b   88K        d8P  Y8b 
-  888    888   888   888  888   888  888   88888888   888               "888   88888888   888  888  "Y8888b.   88888888 
-  Y88b  d88P   888   888 d88P   888 d88P   Y8b.       888          Y88b  d88P  Y8b.       888  888        X88   Y8b.     
-  "Y8888P88    888   88888P"    88888P"     "Y8888    888          "Y8888P"     "Y8888    888  888    88888P"   "Y8888  
+      .d8888b.    d8b   888        888                                 .d8888b.                                         
+     d88P  Y88b   Y8P   888        888                                d88P  Y88b                                         
+     888    888         888        888                                Y88b.                                               
+     888          888   88888b.    88888b.     .d88b.    888d888      "Y888b.      .d88b.    88888b.    .d8888b     .d88b.
+     888  88888   888   888 "88b   888 "88b   d8P  Y8b   888P"           "Y88b.   d8P  Y8b   888 "88b   88K        d8P  Y8b 
+     888    888   888   888  888   888  888   88888888   888               "888   88888888   888  888  "Y8888b.   88888888 
+     Y88b  d88P   888   888 d88P   888 d88P   Y8b.       888          Y88b  d88P  Y8b.       888  888        X88   Y8b.     
+     "Y8888P88    888   88888P"    88888P"     "Y8888    888          "Y8888P"     "Y8888    888  888    88888P"   "Y8888  
        
 
 
